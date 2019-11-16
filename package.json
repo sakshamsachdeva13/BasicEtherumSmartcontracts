@@ -1,0 +1,22 @@
+{
+  "name": "cryptolands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "ganache-cli": "^6.7.0",
+    "mocha": "^6.2.2",
+    "run": "^1.4.0",
+    "scrypt-js": "^3.0.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.2.0",
+    "websocket": "^1.0.30"
+  }
+}
